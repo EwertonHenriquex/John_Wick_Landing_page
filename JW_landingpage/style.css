@@ -81,7 +81,7 @@ body{
     margin-bottom: 0.75rem;
     text-shadow:2px 5px 10px black;
 }
-#hero a{
+#hero p{
     max-width: 600px;
     margin: 0 auto;
 }
